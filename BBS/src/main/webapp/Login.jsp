@@ -20,7 +20,7 @@
 </head>
 <body>
 		<div class="col-lg-4">
-			<h1>로그인</h1>
+			<h1>로그인 Log-In</h1>
 			<form method="post" action="LoginAction.jsp">
 				<div class="form-group">
 					<input type="text" placeholder="학번" name="STUDENT_ID" maxlength="10" style="width: 200px; height:20px">
