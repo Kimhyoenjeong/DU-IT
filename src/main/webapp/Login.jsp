@@ -74,7 +74,7 @@
                <input type="submit" name="login" value="로그인" onClick="enter()" style="width: 200px; height:25px">
                
          </div>
-            <a href="<%=request.getContextPath() %>/Login.jsp"> 회원가입</a>
+            <a href="<%=request.getContextPath() %>/join.jsp"> 회원가입</a>
             <a href="<%=request.getContextPath() %>/Login.jsp"> 비밀번호 찾기</a>
       
          </form>
